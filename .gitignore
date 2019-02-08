@@ -59,3 +59,7 @@ Carthage/Build
 #
 Pods/
 
+Binding/bin
+Binding/.vs
+Binding/obj
+Binding/packages
