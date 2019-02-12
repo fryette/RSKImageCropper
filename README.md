@@ -9,6 +9,10 @@ An image cropper for iOS like in the Contacts app with support for landscape ori
 ## Installation
 *RSKImageCropper requires iOS 6.0 or later.*
 
+### Xamarin.iOS Linker
+
+Add Mtouch command --optimize=-remove-dynamic-registrar
+
 ### Using [Nuget](http://nuget.org)
 
 1. [Nuget link](https://www.nuget.org/packages/RSKImageCropper/)
